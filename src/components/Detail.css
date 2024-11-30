@@ -1,0 +1,62 @@
+/* 전체 컨테이너 */
+.detail-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* 이미지 스타일 */
+  .detail-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  /* 제목 스타일 */
+  .detail-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  /* 주소 등 기본 정보 */
+  .detail-info {
+    margin-bottom: 10px;
+    color: #666;
+    font-size: 1rem;
+  }
+  
+  .detail-info span {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* 추가 정보 섹션 */
+  .detail-additional {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+  }
+  
+  /* 추가 정보 제목 */
+  .detail-additional-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #444;
+    margin-bottom: 10px;
+  }
+  
+  /* 텍스트 */
+  .detail-text {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+  }
+  
